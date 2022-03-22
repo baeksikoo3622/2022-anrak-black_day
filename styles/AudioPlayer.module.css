@@ -1,0 +1,6 @@
+.audioPlayer {
+  padding: 2rem;
+  background-color: rgb(180, 180, 180);
+  display: inline-block;
+  border-radius: 2rem;
+}
